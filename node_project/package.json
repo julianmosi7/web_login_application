@@ -1,0 +1,20 @@
+{
+    "name": "nodejs_web_application",
+    "version": "1.0.0",
+    "description": "nodejs_web_application_backend",
+    "author": "Julian Moshammer",
+    "license": "HTL Grieskirchen",
+    "main": "app.js",
+    "keywords": [
+        "nodejs",
+        "bootstrap",
+        "express"
+    ],
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.16.1",
+        "package.json": "^2.0.1"
+    }
+}
